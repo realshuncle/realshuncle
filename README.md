@@ -3,6 +3,6 @@
 ### Hi there 👋 I'm Serafim Tumachev
 
 - 🌱 I am currently studying at the Faculty of Digital Technologies and Cybersecurity.
-- 👯 I'm a beginner in the field of front-end.
+- 👯 I'm a beginner in the field of frontend.
 - 📫 How to reach me: connect me on mail.
 
